@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Framework-agnostic design system foundation powered by web components.",
+  "license": "MIT",
   "workspaces": [
     "packages/*"
   ],

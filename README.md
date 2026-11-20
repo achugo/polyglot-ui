@@ -168,3 +168,7 @@ ds-input::part(input) {
 2. **Token-driven theming**: all visual decisions should resolve to design tokens.
 3. **Accessibility by default**: interactive components must ship with accessible semantics and behavior.
 4. **Thin adapters**: framework wrappers should add DX, not duplicate core behavior.
+
+## License
+
+[MIT](LICENSE)
